@@ -2,7 +2,7 @@
 
 An end-to-end data pipeline that pulls college football player data from the College Football Data API, transforms it into analytics-ready tables in PostgreSQL (Supabase), and computes a position-adjusted player rating.
 
-**Business question:** Which college football players stand out relative to others at their position, and how can that be expressed as a repeatable, queryable metric?
+**Business question:** To find best fit for agent's needs; Which college football players stand out relative to others at their position, and how can that be expressed as a repeatable, queryable metric?
 
 ## Project overview
 
